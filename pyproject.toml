@@ -13,6 +13,7 @@ dependencies = [
     "llama-cpp-python>=0.3.36",
     "ollama>=0.6.2",
     "openai>=2.0.0,<3.0.0",
+    "prometheus-client>=0.26.0",
     "psutil>=7.2.2",
     "pydantic-settings>=2.15.0",
     "python-json-logger>=4.2.0",
