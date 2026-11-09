@@ -4,12 +4,14 @@ version = "0.1.0"
 requires-python = ">=3.14"
 dependencies = [
     "chromadb>=1.5.9",
+    "crewai>=1.15.37",
     "fastapi>=0.141.1",
     "huggingface-hub>=1.31.0",
     "langchain-chroma>=1.1.0",
     "langchain-community<0.4.2",
     "langchain-ollama>=1.1.0",
     "langgraph>=1.2.11",
+    "litellm>=1.108.3",
     "llama-cpp-python>=0.3.36",
     "ollama>=0.6.2",
     "openai>=2.0.0,<3.0.0",
